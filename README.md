@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/youtubE-%23ff0300.svg?&style=for-the-badge&logo=YOUTUBE&logoColor=white" height=25></a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xfirepc&theme=nord&show_icons=true&locale=en" alt="xfirepc" /></p>
+<p>&nbsp;<img align="center" src="https://xfire-stats.vercel.app/api?username=xfirepc&theme=nord&show_icons=true&locale=en" alt="xfirepc" /></p>
 
 
 - 👨‍💻 My best projects are available at [xfirepc.com](xfirepc.com)
@@ -40,7 +40,7 @@
 
 <h3 align="left">My Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfirepc&theme=nord&show_icons=true&locale=en&layout=compact" alt="xfirepc" /></p>
+<p><img align="left" src="https://xfire-stats.vercel.app/api/top-langs?username=xfirepc&theme=nord&show_icons=true&locale=en&layout=compact" alt="xfirepc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xfirepc&theme=nord" alt="xfirepc" /></p>
 
