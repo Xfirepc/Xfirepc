@@ -39,12 +39,6 @@
 
 
 <h3 align="left">My Stats:</h3>
-
 <p><img align="left" src="https://xfire-stats.vercel.app/api/top-langs?username=xfirepc&theme=nord&show_icons=true&locale=en&layout=compact" alt="xfirepc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xfirepc&theme=nord" alt="xfirepc" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xfirepc&theme=nord" alt="xfirepc" /></a> </p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/xfirepc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xfirepc" /></a></p><br><br>
