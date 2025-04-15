@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **react, javascript, php, laravel, css**
 
-- 📫 How to reach me **vinygfx@gmail.com**
+- 📫 How to reach me **me@xfirepc.com**
 
 
 <h3 align="left">Top Technologies:</h3>
