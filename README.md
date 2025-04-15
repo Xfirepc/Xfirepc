@@ -1,5 +1,5 @@
 <a href="https://www.twitter.com/xfirepc">
-  <img src="https://i.ibb.co/NZvB4Sr/bannergh.png"></a> 
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQF8TaB1XaObuw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1673846450113?e=1750291200&v=beta&t=sTtcFxdsFDkK8OZyXZbSkuSaumNyeAvtYHjbArXAF0c"></a> 
 <p>
   <a href="https://www.twitter.com/xfirepc">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
