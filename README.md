@@ -23,39 +23,18 @@ I specialize in **full-stack architecture**, **AI agent integration**, and **fin
 
 ## Tech Stack
 
-**Backend**
+<div align="center">
 
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs,react,vue,nextjs,tailwind,bootstrap,postgres,mysql,mongodb,azure,digitalocean,docker,git,linux&perline=18)](https://skillicons.dev)
 
-**Frontend**
-
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-
-**Databases & Cloud**
-
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
-[![DigitalOcean](https://skillicons.dev/icons?i=digitalocean)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
-**AI & Automation**
-
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzAwMCIvPjwvc3ZnPg==&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
 ![Retell AI](https://img.shields.io/badge/Retell_AI-6C3CE1?style=flat-square&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+
+</div>
 
 ---
 
