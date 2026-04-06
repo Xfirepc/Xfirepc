@@ -1,11 +1,7 @@
-<a href="https://xfirepc.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=José%20Flores&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=@xfirepc%20·%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=60&descSize=18&descColor=a0a0b0" />
-</a>
-
 <div align="center">
+<img src="./spider.png" alt="Spider" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E94560&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+6%2B+years;AI+Systems+Engineer;Building+products+for+LATAM+%F0%9F%8C%8E;Open+Source+Enthusiast" alt="Typing SVG" />
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/xfirepc.com-0f3460?style=for-the-badge&logo=firefox&logoColor=e94560)](https://xfirepc.com)
@@ -22,11 +18,6 @@
 Software Engineer based in **Quito, Ecuador** with 6+ years building scalable web products, SaaS platforms, and AI-powered systems for startups and companies across LATAM.
 
 I specialize in **full-stack architecture**, **AI agent integration**, and **fintech solutions**. Founder of [SpiderCode](https://spidercode.dev) and passionate about using AI tooling to ship faster without compromising quality.
-
-- Currently building AI call agent systems with **ElevenLabs + Retell**
-- Leading engineering at **WalletCambios** — a fintech platform for currency exchange
-- Created **n8n Octopus** to help agencies scale automation infrastructure
-- Studying **Computer Engineering** at Universidad de La Rioja, Spain
 
 ---
 
@@ -70,24 +61,14 @@ I specialize in **full-stack architecture**, **AI agent integration**, and **fin
 
 ## Featured Projects
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| **CamIA** | AI-powered call agent platform. Replaces call centers with autonomous voice agents — 50% cost reduction proven in Real Estate. | Python · ElevenLabs · Retell AI | [camia.io](https://camia.io) |
-| **n8n Octopus** | Enterprise orchestration layer for n8n. Deploy, scale and manage automation instances with 3 commands — distributed workers, auto SSL, pgvector. | Docker · Nginx · PostgreSQL · Redis | [n8noctopus.xfirepc.com](https://n8noctopus.xfirepc.com) |
-| **WalletCambios** | Full-stack fintech platform for digital currency exchange — KYC, transactions, multi-currency pairs, AI voucher validation, analytics. | Full Stack · AI · PostgreSQL | [walletcambios.com](https://walletcambios.com) |
-| **SpiderCode ERP** | Electronic billing ERP for Ecuadorian SMEs — SRI integration, POS, hotel module. 50+ active clients. | PHP · Symfony · MySQL · Docker | [spidercode.dev](https://spidercode.dev) |
+- **[CamIA](https://camia.io)** — AI call agent platform using ElevenLabs + Retell. Replaces call centers, 50% cost reduction. `Python` `ElevenLabs` `Retell AI`
+- **[n8n Octopus](https://n8noctopus.xfirepc.com)** — Enterprise orchestration for n8n agencies. Deploy & scale instances with 3 commands. `Docker` `PostgreSQL` `Redis`
+- **[WalletCambios](https://walletcambios.com)** — Fintech platform for digital currency exchange — KYC, transactions, AI voucher validation. `Full Stack` `PostgreSQL`
+- **[SpiderCode ERP](https://spidercode.dev)** — Electronic billing ERP for Ecuadorian SMEs, SRI integration, 50+ active clients. `PHP` `Symfony` `MySQL`
 
 ---
 
 ## GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xfirepc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a0a0b0" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfirepc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a0a0b0&langs_count=8" />
-
-</div>
-
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=xfirepc&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a0a0b0&dates=a0a0b0&currStreakNum=ffffff&sideNums=ffffff" />
