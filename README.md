@@ -1,9 +1,6 @@
 <div align="center">
 <img src="./spider.png" alt="Spider" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E94560&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+6%2B+years;AI+Systems+Engineer;Building+products+for+LATAM+%F0%9F%8C%8E;Open+Source+Enthusiast" alt="Typing SVG" />
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/xfirepc.com-0f3460?style=for-the-badge&logo=firefox&logoColor=e94560)](https://xfirepc.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xfirepc)
 [![Email](https://img.shields.io/badge/me@xfirepc.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@xfirepc.com)
