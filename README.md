@@ -1,6 +1,7 @@
 <div align="center">
 <img src="./spider.png" alt="Spider" />
 </br>
+  
 [![Portfolio](https://img.shields.io/badge/xfirepc.com-0f3460?style=for-the-badge&logo=firefox&logoColor=e94560)](https://xfirepc.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xfirepc)
 [![Email](https://img.shields.io/badge/me@xfirepc.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@xfirepc.com)
